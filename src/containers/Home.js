@@ -19,7 +19,7 @@ const Home = () => {
   };
 
   const validarEstados = () => {
-    first_name;
+    //first_name;
   };
 
   return (
