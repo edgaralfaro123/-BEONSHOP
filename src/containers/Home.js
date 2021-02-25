@@ -76,7 +76,7 @@ const Home = () => {
                 <li className="list-group-item"><strong>firstName:</strong> {datos.first_name}</li>
                 <li className="list-group-item"> <strong>lastName:</strong> {datos.last_name}</li>
                 <li className="list-group-item"><strong>country:</strong> {datos.country}</li>
-                <li className="list-group-item"> <strong>email:</strong> {datos.fernandooroperasdasdasdsa}</li>
+                <li className="list-group-item"> <strong>email:</strong> {datos.email}</li>
                 <li className="list-group-item"><strong> phoneNumber:</strong> {datos.phone_number}</li>
                 <li className="list-group-item"> <strong> postCode:</strong> {datos.post_code}</li>
                 <li className="list-group-item"><strong>streetAddress:</strong> {datos.street_address}</li>
